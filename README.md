@@ -20,8 +20,16 @@ Quiz helps us to gain knowledge. Most of the compititive exams asks general ques
    1. Initially the  news_bot  asks  for  the  country's  code
    2. Then the bot shows some articles of the new
    3. The news_bot asks for the interested article to know extension
-   4. Next the news_bot asks  whether to  continue to see another article if 'yes' (step 3) will continue else the news_bot aska whether to see another contry news
+   4. Next the news_bot asks  whether to  continue to see another article if 'yes' (step 3) will continue else the news_bot asks whether to see another contry news
    5. If yes (step - 5) will continue else the news_bot terminates  
-   
-   ## Block diagram:
-   
+      
+![Block diagram](https://github.com/pavistp/newsquizbot/blob/main/ss%20for%20ml.png)
+
+## Video of demo for the news-quiz:
+click the link to watch the video:
+
+## websites we reffered to do this bot:
+we went through some websites regarding the below mentioned uses.
+1. cprint to make the output colorfull 
+2. For news we went through the news api http://newsapi.org/v2/top-headlines?country=country&category=business&apiKey=72d6e0915737435d805d05ff0cda7cc0
+3. Imported request package to use the api.
