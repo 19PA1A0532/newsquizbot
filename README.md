@@ -1,3 +1,5 @@
+# newsquizbot
+
 ## Team mates:
   1. 19pa1a0562- Juttiga Mounika
   2. 19pa1a0564- kalla Bala Anusha
@@ -5,7 +7,6 @@
   
 
 
-# newsquizbot
 a bot using python
 
 ## Objective of the news-quiz bot :
