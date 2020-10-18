@@ -38,6 +38,8 @@ click the link to watch the video: <iframe width="560" height="315" src="https:/
 
 ## websites we reffered to do this bot:
 we went through some websites regarding the below mentioned uses.
-1. cprint to make the output colorfull 
-2. For news we went through the news api http://newsapi.org/v2/top-headlines?country=country&category=business&apiKey=72d6e0915737435d805d05ff0cda7cc0
-3. Imported request package to use the api.
+1. We imorted termcolor and colorama 
+2. cprint to make the output colorfull 
+3. For news we went through the news api http://newsapi.org/v2/top-headlines?country=country&category=business&apiKey=72d6e0915737435d805d05ff0cda7cc0
+4. Imported request package to use the api.
+5. we took questions from online quizes.
