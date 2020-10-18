@@ -22,7 +22,7 @@ Quiz helps us to gain knowledge. Most of the compititive exams asks general ques
    3. The news_bot asks for the interested article to know extension
    4. Next the news_bot asks  whether to  continue to see another article if 'yes' (step 3) will continue else the news_bot asks whether to see another contry news
    5. If yes (step - 5) will continue else the news_bot terminates  
-      
+ ## Block diagram     
 ![Block diagram](https://github.com/pavistp/newsquizbot/blob/main/ss%20for%20ml.png)
 
 ## Video of demo for the news-quiz:
