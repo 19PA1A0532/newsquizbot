@@ -1,3 +1,10 @@
+## Team mates:
+  19pa1a0562- Juttiga Mounica
+  19pa1a0564- kalla Bala Anusha
+  19pa1a0532- Chikkala Pavitra
+  
+
+
 # newsquizbot
 a bot using python
 
