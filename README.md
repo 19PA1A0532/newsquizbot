@@ -1,5 +1,5 @@
 ## Team mates:
-  1. 19pa1a0562- Juttiga Mounica
+  1. 19pa1a0562- Juttiga Mounika
   2. 19pa1a0564- kalla Bala Anusha
   3. 19pa1a0532- Chikkala Pavitra
   
