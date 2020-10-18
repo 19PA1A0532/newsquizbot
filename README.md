@@ -26,7 +26,7 @@ Quiz helps us to gain knowledge. Most of the compititive exams asks general ques
 ![Block diagram](https://github.com/pavistp/newsquizbot/blob/main/ss%20for%20ml.png)
 
 ## Video of demo for the news-quiz:
-click the link to watch the video: https://www.youtube.com/embed/8fbfUneBGYo
+click the link to watch the video: <iframe width="560" height="315" src="https://www.youtube.com/embed/WlK4MbtL9TI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## websites we reffered to do this bot:
 we went through some websites regarding the below mentioned uses.
